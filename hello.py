@@ -2,12 +2,16 @@
 
 #python program that prints "Hello!"
 #Deeksha Reddy (dpr5ks) 
+import helper
+
+helper.greeting("hello")
 
 
-def greeting(msg): 
-	print (msg)
 
-if __name__ == "__main__": 
-	greeting("hello")
+      
+
+
+
+
 
 
